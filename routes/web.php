@@ -14,11 +14,11 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::get('/', function () {
-    return view('welcome');
+    return view('admin.pages.products.index');
 });
 
-Route::get('/dashboard', function () {
-    return view('admin.pages.dashboard');
+Route::get('/contato', function () {
+    return view('admin.pages.products.contato');
 });
 
 Route::resource('products', 'ProductController');
