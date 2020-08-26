@@ -17,7 +17,7 @@
     </header>
 
     <main role="main" class="inner cover">
-        <h1 class="cover-heading">Estoque</h1>
+        <h1 class="cover-heading">Estoque MIRANTE</h1>
         <p class="lead">Sistema Web para controle e gerenciamento de estoque de produtos.</p>
         <p class="text-center">
             <img class="imagem" src="https://upload.wikimedia.org/wikipedia/pt/7/7e/TV_Mirante.png" alt="">
